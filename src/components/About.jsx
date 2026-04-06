@@ -1,4 +1,4 @@
-// src/components/About.jsx
+
 function About() {
   return (
     <section className="description-section">
